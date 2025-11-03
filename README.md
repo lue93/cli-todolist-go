@@ -3,6 +3,8 @@
 
 <p>Aplicação CLI classica para lista de tarefas, tendo como objetivo exercitar os conceitos de forma prática de GO</p>
 
+![image](image.png)
+
 <h3>Conceitos envolvidos</h3>
 
 * Variaveis e tipos
